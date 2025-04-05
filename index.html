@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Agendamento</title>
+</head>
+<body>
+    <header>
+        <h1>Agende seu horário:</h1>
+    </header>
+    <main>
+        <form action="#" method="get">
+            <label for="nome">Nome:</label><br />
+            <input type="text" id="nome" name="nome" placeholder="Seu Nome" required /><br /><br />
+
+             <label for="email">Email:</label><br />
+            <input type="email" id="email" name="email" placeholder="Seu Email" required /><br /><br />
+
+            <label for="telefone">Telefone:</label><br /> 
+            <input type="tel" id="telefone" name="telefone" placeholder="Seu Telefone" required /><br /><br />
+
+
+            <label for="data">Data:</label><br />
+            <input type="date" id="data" name="data" required /><br /><br />
+
+            <label for="hora">Hora:</label><br />
+            <input type="time" id="hora" name="hora" required /><br /><br />
+
+            <label for="comentario">Observações:</label><br />
+            <textarea name="comentario" id="comentario" rows="5" cols="60" maxlength="200"></textarea><br /><br />
+
+            <button type="submit">Agendar</button>
+            <button type="reset">Limpar</button>
+        </form>
+    </main>
+</body>
+</html>
