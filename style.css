@@ -1,7 +1,7 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
-    margin: 0;
+    margin: 100px;
     padding: 20px;
 }
 
@@ -15,7 +15,7 @@ form {
     text-align: center;
     padding: 20px;
     border-radius: 10px;
-    box-shadow: 0 0 20px rgba(0, 0, 0, 0.2);
+    box-shadow: 0 0 90px rgba(0, 0, 0, 0.2);
     margin: 0 auto;
 }
 
