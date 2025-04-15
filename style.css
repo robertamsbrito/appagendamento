@@ -1,19 +1,21 @@
 body {
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
-    margin: 100px;
-    padding: 20px;
+    margin: 12px;
+    padding: 9px;
 }
 
 h1 {
     color: #44086f;
     text-align: center;
+    border: #a16ac8 2px solid;
+    border-radius: 12px;
 }
 
 form {
     background-color: #5441b43e;
     text-align: center;
-    padding: 20px;
+    padding: 10px;
     border-radius: 10px;
     box-shadow: 0 0 90px rgba(0, 0, 0, 0.2);
     margin: 0 auto;
