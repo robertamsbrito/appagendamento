@@ -6,7 +6,7 @@ body {
 }
 
 h1 {
-    color: #2006a5;
+    color: ##44086f;
     text-align: center;
 }
 
@@ -28,16 +28,16 @@ input[type="text"] {
 }
 
 input[type="text"]:focus {
-    border-color: #2006a5;
+    border-color: #44086f;
     outline: none;
 }
 
 input[type="text"]:hover {
-    border-color: #2006a5;
+    border-color: #44086f;
 }
 
 input[type="text"]:active {
-    border-color: #2006a5;
+    border-color: #44086f;
 }
 
 input[type="tel"] {
@@ -49,12 +49,12 @@ input[type="tel"] {
 }
 
 input[type="tel"]:focus {
-    border-color: #2006a5;
+    border-color: #44086f;
     outline: none;
 }
 
 input[type="tel"]:hover {
-    border-color: #2006a5;
+    border-color: #44086f;
 }
 
 input[type="email"] {
@@ -66,12 +66,12 @@ input[type="email"] {
 }
 
 input[type="email"]:focus {
-    border-color: #2006a5;
+    border-color: #44086f;
     outline: none;
 }
 
 input[type="email"]:hover {
-    border-color: #2006a5;
+    border-color: #44086f;
 }
 
 input[type="date"] {
@@ -83,12 +83,12 @@ input[type="date"] {
 }
 
 input[type="date"]:focus {
-    border-color: #2006a5;
+    border-color: #44086f;
     outline: none;
 }
 
 input[type="date"]:hover {
-    border-color: #2006a5;
+    border-color: #44086f;
 }
 
 input[type="time"] {
@@ -100,12 +100,12 @@ input[type="time"] {
 }
 
 input[type="time"]:focus {
-    border-color: #2006a5;
+    border-color: #44086f;
     outline: none;
 }
 
 input[type="time"]:hover {
-    border-color: #2006a5;
+    border-color: #44086f;
 }
 
 textarea {
@@ -117,22 +117,22 @@ textarea {
 }
 
 textarea:focus {
-    border-color: #2006a5;
+    border-color: #44086f;
     outline: none;
 }
 
 textarea:hover {
-    border-color: #2006a5;
+    border-color: #44086f;
 }
 
 label {
     display: block;
     margin: 5px 0;
     font-size: 16px;
-    color: #2006a5;
+    color: #44086f;
 }
 button {
-    background-color: #2006a5;
+    background-color: #a16ac8;
     color: white;
     border: none;
     padding: 7px 10px;
